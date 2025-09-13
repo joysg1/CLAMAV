@@ -8,3 +8,5 @@ aún si se cambia el nombre de archivo, ya que la misma va vinculada con el cont
 
 ++ Escanear un directorio
 --- clamscan <directorio>
+
+
