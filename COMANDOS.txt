@@ -1,1 +1,5 @@
-
+++ Crear firma
+--- sigtool --md5 <nombre_archivo>
+--- sigtool.exe --md5 <nombre_archivo>
+--- Nota: luego se procede a copiar la firma generada, es importante destacar que la firma se mantiene
+aún si se cambia el nombre de archivo, ya que la misma va vinculada con el contenido del archivo
